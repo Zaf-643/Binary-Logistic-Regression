@@ -1,4 +1,8 @@
-# Binary-Logistic-Regression# Logistic Regression
+# Binary-Logistic-Regression
+## Language
+- This project is written in **R**.
+
+# Logistic Regression
 
 # Importing the dataset
 training_set = read.csv('training_set.csv')
